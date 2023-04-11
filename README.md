@@ -36,5 +36,3 @@ function squareAndFindEvens(numbers){
   return evens;
 }
 ```
-
-[Solution](https://lessons.springboard.com/Solution-503a5d4aaabe420986602da0e6572bc4)
